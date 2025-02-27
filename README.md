@@ -1,4 +1,4 @@
-# Experimental Engineerin
+# Experimental Engineering
 About This Repository
 
 This repository contains a Python script designed for analyzing and processing experimental data. The code is structured to efficiently handle data collected from experiments, perform relevant calculations, and visualize results through various plots.
